@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/diego/Desktop/GMAIL VENGANZA.txt",
+		"/C/Users/diego/Desktop/FEJF.txt",
+		"/C/wamp64/apps/phpmyadmin4.8.5/config.sample.inc.php",
+		"/C/wamp64/apps/phpmyadmin4.8.5/config.inc.php",
+		"/C/wamp/www/Showing lives/index.html",
+		"/C/wamp/www/Showing lives/css/style.css",
+		"/C/Users/diego/Documents/Flip PDF Professional/1/index.html",
+		"/C/wamp64/alias/adminer.conf",
+		"/C/wamp64/alias/phpmyadmin.conf",
+		"/C/wamp/bin/php/php.7.3.5/wampserver.conf",
+		"/C/Users/diego/Desktop/Mobile-setting1.txt",
+		"/C/Users/diego/Desktop/tutorial_menu_horizontal_con_efecto_hover(keyquotes)/index.html",
+		"/C/Users/diego/Desktop/tutorial_menu_horizontal_con_efecto_hover(keyquotes)/style/index_style.css",
+		"/C/wamp/www/Showing lives/css/menu.css",
+		"/C/wamp/www/Sonata pagina 111/top5.html",
+		"/C/wamp/www/Showing lives/css/estilos.css",
+		"/C/wamp/www/Showing lives/estilos.css",
+		"/C/wamp/www/Showing lives/style.css",
+		"/C/wamp/www/Showing lives/css/responsive.css",
+		"/C/wamp/www/Sonata pagina 111/index.html",
+		"/C/wamp/www/Sonata pagina 111/envivo.html",
+		"/C/wamp/www/Sonata pagina 111/noticias.html",
+		"/C/wamp/www/Sonata pagina 111/programacion.html",
+		"/C/wamp/www/Sonata pagina 111/contactenos.html",
+		"/C/wamp/www/servicol carnet web/contactenos.html",
+		"/C/Users/diego/Desktop/tranmision.txt",
+		"/C/wamp/www/servicol carnet web/index.html",
+		"/C/wamp/www/Sonata pagina 111/send_form_email.php",
+		"/C/wamp/www/servicol carnet web/portafolio.html",
+		"/C/wamp/www/Sonata pagina 111/assets/css/style.css",
+		"/C/Users/diego/Desktop/Sonata pagina 111/noticias.html",
+		"/C/Users/diego/Desktop/Footer-HTML5-CSS3-master/css/estilos.css",
+		"/C/Users/diego/Desktop/Footer-HTML5-CSS3-master/index.html",
+		"/C/Users/diego/Desktop/PC-DOC/DATOS MARIDO Y AMIGUITO DE ANGELA.txt",
+		"/C/wamp/www/Sonata pagina 111/assets/bootstrap/css/bootstrap.css",
+		"/C/wamp/www/redeline/index.html",
+		"/C/Users/diego/Desktop/menu-responsive/css/estilos.css",
+		"/C/Users/diego/Desktop/menu-responsive/index.html",
+		"/C/wamp/www/Sonata pagina 111/js/menu.js",
+		"/C/Users/diego/Desktop/fontss.css",
+		"/C/Users/diego/Desktop/style.css",
+		"/C/wamp/www/Streaming_video-master/tutoStreaming.html",
+		"/C/wamp/www/Streaming_video-master/tutoStreamClient.html",
+		"/C/wamp/www/Streaming_video-master/app.js",
+		"/C/wamp/www/Sonata pagina 111/descargas.html",
+		"/C/Users/diego/Downloads/Codigo_swf.txt",
+		"/C/wamp/www/Sonata pagina/index.html",
+		"/C/wamp/www/Sonata pagina/assets/bootstrap/css/bootstrap.css",
+		"/C/wamp/www/Sonata pagina/top5.html",
+		"/C/wamp/www/Sonata pagina/programacion.html",
+		"/C/wamp/www/Sonata pagina/noticias.html",
+		"/C/wamp/www/Sonata pagina/descargas.html",
+		"/C/wamp/www/Sonata pagina/contactenos.html",
+		"/C/wamp/www/Sonata pagina/assets/css/style.css",
+		"/C/Users/diego/Documents/AutoPlay Media Studio 8/Projects/sonata-stereo/CD_Root/AutoPlay/Docs/pagina/sonata.html",
+		"/C/Users/diego/Desktop/Contador de visitas - Worldbot/Archivos PHP/counter.php",
+		"/C/wamp/www/enertolima/admin.php",
+		"/C/wamp/www/enertolima/index.php",
+		"//10.254.1.107/diego_melo/Modelo.php",
+		"//10.254.1.107/diego_melo/Cartelera.php",
+		"/C/wamp/www/enertolima/actualizar.php",
+		"/C/wamp/www/enertolima/ejecutaactualizar.php",
+		"/C/wamp/www/enertolima/academ.sql",
+		"/C/wamp/www/enertolima/css/estilos.css",
+		"/C/wamp/www/enertolima/validar.php",
+		"/C/Users/diego/Desktop/enertolima/index.php",
+		"/C/Users/diego/Desktop/academia3/index.php",
+		"/C/Users/diego/Desktop/ARRGLOS",
+		"/C/Users/diego/Desktop/EEEE.php",
+		"/C/Users/diego/Desktop/entrevista.txt",
+		"/C/Users/diego/Documents/AutoPlay Media Studio 8/Output/sonata-stereo/AutoPlay/Docs/pagina/sonata.html",
+		"/C/Users/diego/AppData/Local/Temp/ir_ext_temp_1/AutoPlay/Docs/serial.txt",
+		"/C/Users/diego/AppData/Local/Temp/ir_ext_temp_3/AutoPlay/Docs/serial.txt",
+		"/C/Users/diego/Desktop/sonata.html",
+		"/C/wamp/www/natura  web/index.html",
+		"/C/wamp/www/natura  web/css/lightbox.css",
+		"/C/wamp/www/natura  web/css/font-awesome.min.css",
+		"/C/wamp/www/natura  web/css/responsive.css",
+		"/C/wamp/www/pagetrafico/css/estilos.css",
+		"/C/wamp/www/pagetrafico/videos6754.html",
+		"/C/wamp/www/pagetrafico/videos.html",
+		"/C/wamp/www/pagetrafico/login.html",
+		"/C/wamp/www/pagetrafico/index.html",
+		"/C/wamp/www/academia3corregido/academia3/registro.php",
+		"/C/wamp/www/academia3corregido/academia3/validar.php",
+		"/C/wamp/www/academia3corregido/academia3/index2.php",
+		"/C/wamp/www/academia3corregido/academia3/index.php",
+		"/C/wamp/www/academia3corregido/academia3/ejecutaactualizar.php",
+		"/C/wamp/www/academia3corregido/academia3/desconectar.php",
+		"/C/wamp/www/academia3corregido/academia3/connect_db.php",
+		"/C/wamp/www/academia3corregido/academia3/adminenlaces.php",
+		"/C/wamp/www/academia3corregido/academia3/admin.php",
+		"/C/wamp/www/pagetrafico/validar.php",
+		"/C/wamp/www/academia3corregido/academia3/actualizar.php",
+		"/C/Users/diego/Desktop/login.sql",
+		"/C/wamp/www/pagetrafico/admin.php",
+		"/C/wamp/www/pagetrafico/registro.php",
+		"/C/wamp/www/pagetrafico/valida_foto.php",
+		"/C/Users/diego/Desktop/informes de mes.txt",
+		"/C/wamp/www/pagetrafico/desconectar.php",
+		"/C/wamp/www/pagetrafico/ejecutaactualizar.php",
+		"/C/wamp/www/pagetrafico/actualizar.php",
+		"/C/wamp/www/pagetrafico/connect_db.php",
+		"/C/Users/diego/Desktop/IPCALI.txt",
+		"/C/wamp/www/pagetrafico/index2.php",
+		"/C/Users/diego/Desktop/clavedeepfrezze.txt",
+		"/C/wamp/www/Ruta_a_bdMysql/subir_foto/conexion.php",
+		"/C/wamp/www/Ruta_a_bdMysql/script.sql",
+		"/C/wamp/www/Ruta_a_bdMysql/subir_foto/valida_foto.php",
+		"/C/wamp/www/Ruta_a_bdMysql/subir_foto/index.php",
+		"/C/wamp/www/pagetrafico/Ruta_a_bdMysql/subir_foto/index.php",
+		"/C/wamp/www/pagetrafico/Ruta_a_bdMysql/subir_foto/fotos/nuevas reglas.txt",
+		"/C/wamp/www/pagetrafico/Ruta_a_bdMysql/script.sql",
+		"/C/Users/diego/Downloads/academ (1).sql",
+		"/C/Users/diego/Downloads/foto (1).sql",
+		"/C/Users/diego/Downloads/script.sql",
+		"/C/Users/diego/Downloads/foto.sql",
+		"/C/Users/diego/Desktop/nuevas reglas.txt",
+		"/C/Users/diego/Desktop/Ruta_a_bdMysql/script.sql",
+		"/C/Users/diego/Downloads/academ.sql",
+		"/C/Users/diego/Desktop/Ruta_a_bdMysql/subir_foto/valida_foto.php",
+		"/C/Users/diego/Desktop/Ruta_a_bdMysql/subir_foto/index.php",
+		"/C/Users/diego/Desktop/Ruta_a_bdMysql/subir_foto/conexion.php",
+		"/C/Users/diego/AppData/Local/Temp/Rar$DIa8404.13330/script.sql",
+		"/C/Users/diego/Desktop/DIRECION ALCANOS.txt",
+		"/C/Users/diego/AppData/Local/Temp/Rar$DIa8404.18095/Léeme.txt",
+		"/C/Users/diego/Desktop/Nueva carpeta/Login - Tipos de Inicio de Sesion V 1/Login - Tipos de Inicio de Sesion/Database/BaseDatos.sql",
+		"/C/Users/diego/Desktop/Photoshop cs6 BetoCheto/Licencia.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
